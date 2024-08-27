@@ -8,7 +8,11 @@ This project consists of three primary data marts:
 
 1.Discount Management Data Mart:
     Handles data related to various discount types, their descriptions, validity periods, and applicable categories.
+
+    
 2.HR Management Data Mart:
     Manages employee data including personal details, employment information, warehouse assignments, and job positions.
+
+    
 3.Inventory Data Mart: 
     Tracks inventory transactions such as product entries and exits in the warehouse, including product details and warehouse locations.
